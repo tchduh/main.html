@@ -18,7 +18,6 @@
 <div class="wraper-header">
 <div class="logo">
 <center><h2><span><a href="pag-01.html" </span> <font face="Arial" size="5" color="blue">Sobre Nós | Leia Mais | Contato</font></a></h2></center>
-
 <div class="banner-ads">
     <h2><span style= font-size:1</h2>
 </div>
